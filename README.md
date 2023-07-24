@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/joshhamwee/joshhamwee/blob/master/public/hiking-modified-min.png">
+<img src="https://github.com/joshhamwee/joshhamwee/blob/master/public/hiking-modified-min.png" max-width=300px>
 </p>
 <h2 align="center">Hello there! My name is Josh Hamwee</h2>
 <p align="center">I'm currently a Software/Data Engineer at Pacific Asset Management. Previously worked at Microsoft as a Cloud Cyber Security Analyst. I graduated from the University of Bristol with a degree in CS.
