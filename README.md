@@ -1,5 +1,5 @@
 <p align="center">
- <img  width="800" height="400" src="https://github.com/Terabyte17/Terabyte17/blob/master/social/yashs.gif">
+<img src="https://github.com/joshhamwee/joshhamwee/blob/master/public/hiking-modified-min.png">
 </p>
 <h2 align="center">Hello there! My name is Josh Hamwee</h2>
 <p align="center">I'm currently a Software/Data Engineer at Pacific Asset Management. Previously worked at Microsoft as a Cloud Cyber Security Analyst. I graduated from the University of Bristol with a degree in CS.
@@ -27,5 +27,5 @@
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
 
 <p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshhamwee&layout=donut&hide=Jupyter%20Notebook">
+  <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshhamwee&layout=donut&hide=Jupyter%20Notebook&theme=radical">
 </p>
