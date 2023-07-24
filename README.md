@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://github.com/joshhamwee/joshhamwee/blob/master/public/hiking-modified-min.png" max-width=300px>
+  <img src="./public/hiking-modified-min.png" alt="Hiking Image" width="300px">
 </p>
 <h2 align="center">Hello there! My name is Josh Hamwee</h2>
-<p align="center">I'm currently a Software/Data Engineer at Pacific Asset Management. Previously worked at Microsoft as a Cloud Cyber Security Analyst. I graduated from the University of Bristol with a degree in CS.
+<p align="center">I'm currently a Software/Data Engineer at Pacific Asset Management. Previously worked at Microsoft as a Cloud Cyber Security Analyst. I graduated in 2020 from the University of Bristol with a BSc in Computer Science.
 </p>
 
 <p align="center"><a href="https://twitter.com/joshhamwee"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/josh-hamwee-851b43167/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
